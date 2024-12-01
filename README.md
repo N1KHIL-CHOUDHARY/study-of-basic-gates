@@ -1,6 +1,4 @@
 ### study-of-basic-gates
-NAME:NIKHIL H 
-REG_NO:24900366
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
