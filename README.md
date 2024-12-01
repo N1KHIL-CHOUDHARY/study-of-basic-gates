@@ -62,7 +62,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+---
 module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 output c1,c2,c3,c4,c5,c6,c7;
@@ -74,10 +74,11 @@ nor g5(c5,a,b);
 xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
-
-
- Developed by: RegisterNumber: 24900366(NIKHIL H)
- 
+---
+---
+ Developed by: NIKHIL 
+ RegisterNumber: 24900366
+ ---
 **Logic symbol & Truthtable**
 ![image](https://github.com/user-attachments/assets/c408e88f-5f8e-432f-b526-be8110a7c2b7)
 
