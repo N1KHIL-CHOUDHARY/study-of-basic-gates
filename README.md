@@ -80,12 +80,13 @@ endmodule
  Developed by: RegisterNumber: 24900366(NIKHIL H)
  
 **Logic symbol & Truthtable**
-![logic diagram](https://github.com/user-attachments/assets/e4a8e204-103d-417c-9a81-923428abf9a8)
-**RTL realization Output:** 
-![waveform](https://github.com/user-attachments/assets/25af3544-3063-4948-846c-18b4d96082de)
+![image](https://github.com/user-attachments/assets/c408e88f-5f8e-432f-b526-be8110a7c2b7)
 
+**RTL realization Output:** 
+![logic diagram](https://github.com/user-attachments/assets/e4a8e204-103d-417c-9a81-923428abf9a8)
 **RTL**
-  
+  ![waveform](https://github.com/user-attachments/assets/25af3544-3063-4948-846c-18b4d96082de)
+
 **Result:**
    Thus   the truth table of logic gates in Quartus II using Verilog programming is  verified.
 
